@@ -9,7 +9,7 @@ const Global = createGlobalStyle`
   }
 `;
 
-// joa irgendwas halt
+// joa irgendwas halt und mehr
 const container = document.getElementById("root");
 const root = createRoot(container!);
 
