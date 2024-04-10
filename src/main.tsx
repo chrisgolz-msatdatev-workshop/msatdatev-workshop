@@ -9,6 +9,7 @@ const Global = createGlobalStyle`
   }
 `;
 
+// joa irgendwas halt
 const container = document.getElementById("root");
 const root = createRoot(container!);
 
